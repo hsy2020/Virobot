@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 4981df2e65937604fabf1a6ff2856c95
+timeCreated: 1480670163
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0
+    100002: 1
+    100004: 2
+    100006: 3
+    100008: 4
+    100010: 5
+    100012: //RootNode
+    100014: Armature
+    100016: Bone
+    100018: Bone_001
+    100020: Bone_002
+    100022: Bone_003
+    100024: Bone_004
+    100026: Bone_005
+    100028: Bone_006
+    100030: Link0_Base
+    100032: Link1_Base
+    100034: Link2_Base
+    100036: Link3_Base
+    100038: Link4_Base
+    100040: Link5_Base
+    100042: Link6_Base
+    100044: ShapeIndexedFaceSet_003
+    100046: ShapeIndexedFaceSet_004
+    100048: ShapeIndexedFaceSet_005
+    100050: table
+    400000: 0
+    400002: 1
+    400004: 2
+    400006: 3
+    400008: 4
+    400010: 5
+    400012: //RootNode
+    400014: Armature
+    400016: Bone
+    400018: Bone_001
+    400020: Bone_002
+    400022: Bone_003
+    400024: Bone_004
+    400026: Bone_005
+    400028: Bone_006
+    400030: Link0_Base
+    400032: Link1_Base
+    400034: Link2_Base
+    400036: Link3_Base
+    400038: Link4_Base
+    400040: Link5_Base
+    400042: Link6_Base
+    400044: ShapeIndexedFaceSet_003
+    400046: ShapeIndexedFaceSet_004
+    400048: ShapeIndexedFaceSet_005
+    400050: table
+    2300000: 0
+    2300002: 1
+    2300004: 2
+    2300006: 3
+    2300008: 4
+    2300010: 5
+    2300012: table
+    3300000: 0
+    3300002: 1
+    3300004: 2
+    3300006: 3
+    3300008: 4
+    3300010: 5
+    3300012: table
+    4300000: table
+    4300002: Link0_Base
+    4300004: Link1_Base
+    4300006: Link2_Base
+    4300008: Link3_Base
+    4300010: Link4_Base
+    4300012: Link5_Base
+    4300014: Link6_Base
+    4300016: ShapeIndexedFaceSet_003
+    4300018: 4
+    4300020: 2
+    4300022: 0
+    4300024: 5
+    4300026: 1
+    4300028: 3
+    4300030: ShapeIndexedFaceSet_005
+    4300032: ShapeIndexedFaceSet_004
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Link0_Base
+    13700002: Link1_Base
+    13700004: Link2_Base
+    13700006: Link3_Base
+    13700008: Link4_Base
+    13700010: Link5_Base
+    13700012: Link6_Base
+    13700014: ShapeIndexedFaceSet_003
+    13700016: ShapeIndexedFaceSet_004
+    13700018: ShapeIndexedFaceSet_005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

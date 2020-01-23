@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 6a968ea757ec3084ba013d265e34412a
+timeCreated: 1479421918
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_001
+    100006: Bone_002
+    100008: Bone_003
+    100010: Cube
+    100012: Cube_001
+    100014: Cube_002
+    100016: Cube_003
+    100018: Cube_004
+    100020: Cylinder
+    100022: Cylinder_001
+    100024: Cylinder_002
+    100026: Cylinder_003
+    100028: //RootNode
+    100030: Bone_004
+    100032: Bone_005
+    100034: Bone_006
+    100036: Bone_007
+    100038: Bone_008
+    100040: Bone_009
+    100042: Bone_010
+    100044: Bone_011
+    100046: Bone_012
+    100048: Bone_013
+    100050: Bone_014
+    100052: Bone_015
+    100054: Bone_016
+    100056: Bone_017
+    100058: Bone_018
+    100060: Bone_019
+    100062: Bone_020
+    100064: Bone_021
+    100066: Bone_022
+    100068: Bone_023
+    400000: Armature
+    400002: Bone
+    400004: Bone_001
+    400006: Bone_002
+    400008: Bone_003
+    400010: Cube
+    400012: Cube_001
+    400014: Cube_002
+    400016: Cube_003
+    400018: Cube_004
+    400020: Cylinder
+    400022: Cylinder_001
+    400024: Cylinder_002
+    400026: Cylinder_003
+    400028: //RootNode
+    400030: Bone_004
+    400032: Bone_005
+    400034: Bone_006
+    400036: Bone_007
+    400038: Bone_008
+    400040: Bone_009
+    400042: Bone_010
+    400044: Bone_011
+    400046: Bone_012
+    400048: Bone_013
+    400050: Bone_014
+    400052: Bone_015
+    400054: Bone_016
+    400056: Bone_017
+    400058: Bone_018
+    400060: Bone_019
+    400062: Bone_020
+    400064: Bone_021
+    400066: Bone_022
+    400068: Bone_023
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cylinder
+    2300012: Cylinder_001
+    2300014: Cylinder_002
+    2300016: Cylinder_003
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cylinder
+    3300012: Cylinder_001
+    3300014: Cylinder_002
+    3300016: Cylinder_003
+    4300000: Cylinder_003
+    4300002: Cylinder_002
+    4300004: Cylinder_001
+    4300006: Cylinder
+    4300008: Cube_004
+    4300010: Cube_003
+    4300012: Cube_002
+    4300014: Cube_001
+    4300016: Cube
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+    13700002: Cube_001
+    13700004: Cube_002
+    13700006: Cube_003
+    13700008: Cube_004
+    13700010: Cylinder
+    13700012: Cylinder_001
+    13700014: Cylinder_002
+    13700016: Cylinder_003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''untitled'' conversion failed: Required human bone ''LeftUpperLeg''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Armature
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_001
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_002
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone_003
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: untitled(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5026108, y: 0.49737552, z: -0.50261074, w: 0.49737558}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Bone_001
+      position: {x: -3.1281607, y: 0.00000023616954, z: 1.2e-14}
+      rotation: {x: -0.5745036, y: -0.41418648, z: 0.41854608, w: 0.5685195}
+      scale: {x: 1.0000008, y: 0.99999917, z: 1.0000006}
+      transformModified: 1
+    - name: Bone_002
+      position: {x: -2.7566798, y: 0.00000020812351, z: -0.00000011920929}
+      rotation: {x: -0.000000029802319, y: -0.1757373, z: -0, w: 0.9844371}
+      scale: {x: 1, y: 0.9999999, z: 1.0000013}
+      transformModified: 1
+    - name: Bone_003
+      position: {x: -3.1045313, y: 0.00000023438558, z: 0.00000047683716}
+      rotation: {x: 0.0008917476, y: 0.23357391, z: -0.00021421019, w: 0.9723387}
+      scale: {x: 1.0000043, y: 1.0000008, z: 0.999999}
+      transformModified: 1
+    - name: Cube
+      position: {x: -0, y: 0, z: -0.23384193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.690275, y: 1.690275, z: 1}
+      transformModified: 1
+    - name: Cube_001
+      position: {x: -0, y: 0, z: 1.7499778}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.5799011, y: 0.5799011, z: 1.6989347}
+      transformModified: 1
+    - name: Cube_002
+      position: {x: -1.1136224, y: -0.00000031349998, z: 4.0832815}
+      rotation: {x: -4.8590502e-15, y: -0.42564702, z: -0.00000005718944, w: 0.9048893}
+      scale: {x: 0.5799011, y: 0.5799011, z: 1.6989348}
+      transformModified: 1
+    - name: Cube_003
+      position: {x: -3.7173777, y: -0.00000042464993, z: 4.9105434}
+      rotation: {x: 1.1214562e-13, y: -0.72815305, z: -0.00000009783383, w: 0.68541455}
+      scale: {x: 0.5799011, y: 0.5799011, z: 1.6989347}
+      transformModified: 1
+    - name: Cube_004
+      position: {x: -7.0127106, y: -0.00000042344286, z: 4.859702}
+      rotation: {x: -0.00000004452668, y: -0.7042064, z: -0.000000044160426, w: 0.7099954}
+      scale: {x: 1.2612314, y: 1.2612314, z: 1.2859786}
+      transformModified: 1
+    - name: Cylinder
+      position: {x: -5.2526436, y: 0.014204562, z: 4.8397436}
+      rotation: {x: -0.00000004750303, y: -0.7071067, z: -0.00000004750302, w: 0.7071068}
+      scale: {x: 0.89831644, y: 0.89831644, z: 0.89831644}
+      transformModified: 1
+    - name: Cylinder_001
+      position: {x: -2.142731, y: -0.004124994, z: 4.9130616}
+      rotation: {x: 0.5, y: -0.5, z: 0.4999999, w: 0.5000001}
+      scale: {x: 0.89831644, y: 0.89831644, z: 0.89831644}
+      transformModified: 1
+    - name: Cylinder_002
+      position: {x: -0.0470531, y: -0.004124717, z: 3.1534252}
+      rotation: {x: 0.5, y: -0.5, z: 0.4999999, w: 0.5000001}
+      scale: {x: 0.89831644, y: 0.89831644, z: 0.89831644}
+      transformModified: 1
+    - name: Cylinder_003
+      position: {x: -0.010393988, y: -0.0041243867, z: 0.44065267}
+      rotation: {x: -0.000000042146844, y: -0.00000009553191, z: 0.7071067, w: 0.7071068}
+      scale: {x: 0.89831644, y: 0.89831644, z: 0.89831644}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
